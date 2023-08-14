@@ -1,5 +1,5 @@
 # 👋: Hello, I'm Atharva!
-- 🎓 I am a Computer Science and engineering pre-final student at IIT Ropar.
+- 🎓 I am a Computer Science and engineering Pre-Final year student at IIT Ropar.
 - 🌱 I am interested in Competitive Programming and Web Development.
 - 👀 I am currently exploring field of AI/ML.
 - 💻 I am proficient in C and C++, Javascript, Python, Java, Perl.
